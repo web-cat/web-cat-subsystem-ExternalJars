@@ -19,6 +19,8 @@ mail.jar                    (http://java.sun.com/products/javamail/)
 milton-api-1.5.7.jar        (http://milton.ettrema.com/index.html)
 mime-util-2.1.3.jar         (http://sourceforge.net/projects/mime-util/)
 mysql-connector-java-5.1.6-bin.jar  (http://dev.mysql.com/downloads/connector/j/)
+oauth-common.jar
+oauth-httpclient4-20100601.jar
 OpenBaseJDBC.jar
 org.eclipse.jgit-1.0.0.201106090707-r.jar (http://download.eclipse.org/jgit/maven/org/eclipse/jgit/org.eclipse.jgit/1.0.0.201106090707-r/org.eclipse.jgit-1.0.0.201106090707-r.jar)
 poi-3.6-20091214.jar        (http://poi.apache.org/)
